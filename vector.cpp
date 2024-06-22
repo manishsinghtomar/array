@@ -47,7 +47,7 @@ int main() {
     cout<<endl;
 
     cout <<"Printing crr"<<endl;
-    vector<int> crr{10,20,30,40};
+    vector<int> crr{10,20,30,40};// crr will be initialized by individual values like 10,20,30 ,40
 
     for(int i=0; i<crr.size();i++){
         cout<< crr[i]<<" ";
